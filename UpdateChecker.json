@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "mhetesp32devkit",
-      "Version": "4.7.1",
+      "Version": "4.8.1",
       "URL": "https://github.com/Tempus-Dominus/ChronoSpark_IN-12B_Updates/releases/download/Pre-Release/CronoSpark-IN12B-v4.7.0.bin"
     }
   ]
