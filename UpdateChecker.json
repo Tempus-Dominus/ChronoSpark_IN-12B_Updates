@@ -3,7 +3,7 @@
     {
       "Board": "mhetesp32devkit",
       "Version": "4.8.1",
-      "URL": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/990327872/d7baf246-2706-4a07-b42c-b41e171561ad?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250603T033514Z&X-Amz-Expires=300&X-Amz-Signature=12903958741b1d522cc3876c53f7206577a87a99b573a5b9d10809bb7690f31b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DCronoSpark-IN12B-v4.8.1.bin&response-content-type=application%2Foctet-stream"
+      "URL": "https://github.com/Tempus-Dominus/ChronoSpark_IN-12B_Updates/releases/download/v4.8.1/CronoSpark-IN12B-v4.8.1.bin"
     }
   ]
 }
