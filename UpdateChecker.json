@@ -3,7 +3,7 @@
     {
       "Board": "mhetesp32devkit",
       "Version": "4.8.1",
-      "URL": "https://github.com/Tempus-Dominus/ChronoSpark_IN-12B_Updates/raw/refs/heads/main/CronoSpark-IN12B-v4.8.1.bin"
+      "URL": "https://raw.githubusercontent.com/Tempus-Dominus/ChronoSpark_IN-12B_Updates/refs/heads/main/CronoSpark-IN12B-v4.8.1.bin"
     }
   ]
 }
